@@ -1,7 +1,6 @@
 import os.path,glob,shutil,os
 from itertools import islice
 listtype = []
-filelist = []
 x = 0
 try:
    os.mkdir("filelister")
